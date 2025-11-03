@@ -1,0 +1,3 @@
+cd "oop pro"
+javac -d . src/main/*.java src/model/*.java src/ui/*.java
+java main.Main
